@@ -1,0 +1,71 @@
+.sticky-navbar {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  left:0;
+  z-index: 99;
+
+}
+.sticky-navbar a {
+  border: 1px solid #FF686B;
+  margin:2px;
+  background-color:#FFF;
+  color:#FF686B;
+  font-weight: bold;
+}
+.back-img {
+  background-color:#84DCC6;
+}
+.spacing {
+  height:6rem;
+  opacity: 0;
+}
+.general-info-nav-top {
+  padding-left: 25px;
+  padding-top:.5rem;
+  padding-bottom: .5rem;
+  font-size:1rem;
+}
+.orange-background {
+  background-color: #FFA69E;
+}
+.jumbotron {
+  border-radius: 0;
+  background-color: #84DCC6;
+  color:#FFF;
+}
+.general-info-nav-top-first {
+  padding-left:0;
+}
+.social-links {
+  font-size: 2rem;
+  padding:0;
+}
+.content-color {
+  background-color: #FFF;
+}
+@media (max-width: 640px) { .sticky-navbar a {font-size:.75rem;margin:auto;width:100%;} }
+@media (max-width: 640px) { .general-info-nav-top {padding:0;} }
+
+.footer {
+  background-color: #FFA69E;
+}
+
+.main-card {
+  background-color: #FFF;
+}
+
+body {
+  overflow-x:hidden;
+}
+@font-face {
+  font-family: Heading123;
+  src: url(fonts/AmaticSC-Bold.ttf);
+}
+.theheading {
+  font-family: Heading123;
+}
+.pink {
+  color:#FF686B;
+  font-weight: bold;
+}

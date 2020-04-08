@@ -1,0 +1,41 @@
+base-perks-for-all-packages:
+ - Facial scrub
+ - Full body massage
+ - Shampoo & Conditioner
+ - Ear cleaning and plucking (upon request)
+ - Gland expression externally (upon request)
+ - Towel & blow dry
+ - Brush out
+ - De-shed included (if needed)
+ - Bow or bowtie included
+
+main-package-1:
+  name: Bath & Brush
+  base-price: $50-$90+
+  small-dog-price: $50-$60+
+  med-dog-price: $60-$70+
+  large-dog-price: $70-$80+
+  xlarge-dog-price: $80-$90+
+  special-perks:
+
+main-package-2:
+  name: Face, Feet, & Fanny
+  base-price: $60-$120+
+  small-dog-price: $60-$70+
+  med-dog-price: $80-$90+
+  large-dog-price: $90-$100+
+  xlarge-dog-price: $100-$110+
+  special-perks:
+   - Sanitary trim
+   - Paw/pad trim
+   - Eye/visor trim
+
+main-package-3:
+  name: Full Groom
+  base-price: $70-$150+
+  small-dog-price: $70-$80+
+  med-dog-price: $90-$100+
+  large-dog-price: $110-$120+
+  xlarge-dog-price: $120-$150+
+  special-perks:
+   - All-over, full haircut to your desired length that meets you and your pets lifestyle
